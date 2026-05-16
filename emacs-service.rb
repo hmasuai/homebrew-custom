@@ -1,4 +1,4 @@
-class emacsService < Formula
+class EmacsService < Formula
   desc "Emacs server service"
   homepage "https://www.gnu.org/software/emacs/"
   service do
